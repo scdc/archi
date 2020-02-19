@@ -1,0 +1,171 @@
+{ "restaurants": [
+    {
+      "id": 0,
+      "name": "Mckee",
+      "distance": "50.4081",
+      "available_at": 1581969190,
+      "grouped_order_discounts": [
+        {
+          "nb_people": 13,
+          "discount_percent": "35.2432",
+          "minimum_amount": "18.6342"
+        }
+      ],
+      "main_picture": {
+        "url": "https://i.picsum.photos/id/0/800/300.jpg",
+        "key": 0
+      },
+      "logo": {
+        "url": "https://i.picsum.photos/id/0/48/48.jpg",
+        "key": 0
+      }
+    },
+    {
+      "id": 1,
+      "name": "Blake",
+      "distance": "80.2003",
+      "available_at": 1581969190,
+      "grouped_order_discounts": [
+        {
+          "nb_people": 9,
+          "discount_percent": "11.4213",
+          "minimum_amount": "81.5759"
+        }
+      ],
+      "main_picture": {
+        "url": "https://i.picsum.photos/id/1/800/300.jpg",
+        "key": 1
+      },
+      "logo": {
+        "url": "https://i.picsum.photos/id/1/48/48.jpg",
+        "key": 1
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hunter",
+      "distance": "64.8915",
+      "available_at": 1581969190,
+      "grouped_order_discounts": [
+        {
+          "nb_people": 11,
+          "discount_percent": "51.1049",
+          "minimum_amount": "55.7722"
+        }
+      ],
+      "main_picture": {
+        "url": "https://i.picsum.photos/id/2/800/300.jpg",
+        "key": 2
+      },
+      "logo": {
+        "url": "https://i.picsum.photos/id/2/48/48.jpg",
+        "key": 2
+      }
+    },
+    {
+      "id": 3,
+      "name": "Wilkerson",
+      "distance": "86.1126",
+      "available_at": 1581969190,
+      "grouped_order_discounts": [
+        {
+          "nb_people": 17,
+          "discount_percent": "38.0349",
+          "minimum_amount": "5.5944"
+        }
+      ],
+      "main_picture": {
+        "url": "https://i.picsum.photos/id/3/800/300.jpg",
+        "key": 3
+      },
+      "logo": {
+        "url": "https://i.picsum.photos/id/3/48/48.jpg",
+        "key": 3
+      }
+    },
+    {
+      "id": 4,
+      "name": "Roman",
+      "distance": "37.7774",
+      "available_at": 1581969190,
+      "grouped_order_discounts": [
+        {
+          "nb_people": 12,
+          "discount_percent": "48.7087",
+          "minimum_amount": "56.0859"
+        }
+      ],
+      "main_picture": {
+        "url": "https://i.picsum.photos/id/4/800/300.jpg",
+        "key": 4
+      },
+      "logo": {
+        "url": "https://i.picsum.photos/id/4/48/48.jpg",
+        "key": 4
+      }
+    },
+    {
+      "id": 5,
+      "name": "Castillo",
+      "distance": "75.6694",
+      "available_at": 1581969190,
+      "grouped_order_discounts": [
+        {
+          "nb_people": 18,
+          "discount_percent": "45.0146",
+          "minimum_amount": "26.2414"
+        }
+      ],
+      "main_picture": {
+        "url": "https://i.picsum.photos/id/5/800/300.jpg",
+        "key": 5
+      },
+      "logo": {
+        "url": "https://i.picsum.photos/id/5/48/48.jpg",
+        "key": 5
+      }
+    },
+    {
+      "id": 6,
+      "name": "Schmidt",
+      "distance": "28.4014",
+      "available_at": 1581969190,
+      "grouped_order_discounts": [
+        {
+          "nb_people": 4,
+          "discount_percent": "97.5351",
+          "minimum_amount": "49.6053"
+        }
+      ],
+      "main_picture": {
+        "url": "https://i.picsum.photos/id/6/800/300.jpg",
+        "key": 6
+      },
+      "logo": {
+        "url": "https://i.picsum.photos/id/6/48/48.jpg",
+        "key": 6
+      }
+    },
+    {
+      "id": 7,
+      "name": "Duncan",
+      "distance": "19.3533",
+      "available_at": 1581969190,
+      "grouped_order_discounts": [
+        {
+          "nb_people": 12,
+          "discount_percent": "25.9658",
+          "minimum_amount": "8.2552"
+        }
+      ],
+      "main_picture": {
+        "url": "https://i.picsum.photos/id/7/800/300.jpg",
+        "key": 7
+      },
+      "logo": {
+        "url": "https://i.picsum.photos/id/7/48/48.jpg",
+        "key": 7
+      }
+    }
+  ]
+}
